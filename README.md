@@ -1,2 +1,2 @@
-# Projects
-Amazon Clone website Codes 
+<i>This project contains the HTML & CSS codes of Amazon Clone Project </i>
+link to resources
